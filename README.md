@@ -12,7 +12,7 @@ To run this demo:
 The URL should use your instance of Che/CodeReady Workspaces:
 
 ```
-https://<your-codeready-workspaces-instance>/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app
+https://codeready-codeready.apps.cluster-b578.b578.sandbox676.opentlc.com/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app
 ```
 
 Alternatively,
